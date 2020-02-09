@@ -1,0 +1,13 @@
+D:\TrainingServer\TrainingDataAccessLayer\bin\Debug\TrainingDataAccessLayer.dll.config
+D:\TrainingServer\TrainingDataAccessLayer\bin\Debug\TrainingDataAccessLayer.dll
+D:\TrainingServer\TrainingDataAccessLayer\bin\Debug\TrainingDataAccessLayer.pdb
+D:\TrainingServer\TrainingDataAccessLayer\bin\Debug\EntityFramework.dll
+D:\TrainingServer\TrainingDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\TrainingServer\TrainingDataAccessLayer\bin\Debug\TrainingModel.dll
+D:\TrainingServer\TrainingDataAccessLayer\bin\Debug\TrainingModel.pdb
+D:\TrainingServer\TrainingDataAccessLayer\bin\Debug\EntityFramework.xml
+D:\TrainingServer\TrainingDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\TrainingServer\TrainingDataAccessLayer\obj\Debug\TrainingDataAccess.csprojResolveAssemblyReference.cache
+D:\TrainingServer\TrainingDataAccessLayer\obj\Debug\TrainingDataAccess.csproj.CoreCompileInputs.cache
+D:\TrainingServer\TrainingDataAccessLayer\obj\Debug\TrainingDataAccessLayer.dll
+D:\TrainingServer\TrainingDataAccessLayer\obj\Debug\TrainingDataAccessLayer.pdb

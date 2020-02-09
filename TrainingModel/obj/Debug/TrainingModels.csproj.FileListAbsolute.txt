@@ -1,0 +1,5 @@
+D:\TrainingServer\TrainingModel\bin\Debug\TrainingModel.dll
+D:\TrainingServer\TrainingModel\bin\Debug\TrainingModel.pdb
+D:\TrainingServer\TrainingModel\obj\Debug\TrainingModels.csproj.CoreCompileInputs.cache
+D:\TrainingServer\TrainingModel\obj\Debug\TrainingModel.dll
+D:\TrainingServer\TrainingModel\obj\Debug\TrainingModel.pdb
